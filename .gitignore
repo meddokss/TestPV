@@ -4,7 +4,6 @@
 dist
 /
 .git
-/css
 
 /**/*.psd
 /**/Thumbs.db
